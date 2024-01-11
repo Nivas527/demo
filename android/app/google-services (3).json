@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955114051904",
+    "project_id": "spotify-3205b",
+    "storage_bucket": "spotify-3205b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955114051904:android:144c6765de36a5b4ac02a5",
+        "android_client_info": {
+          "package_name": "com.example.spotifyinsta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUv7l8vdYzaP27F0GKX78h69d82My3t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
